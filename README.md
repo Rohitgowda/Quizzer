@@ -1,4 +1,5 @@
 # Quizzer
+After unzipping of a file, change the file name to test for execution
 This is a web application designed using PHP, Jquery, Ajax, Bootstrap MD, bootstrap Particle with Apache server and Mysql.
 Pre-requisites
 1.	MySql Database used: quizdatabase, sessionpractical.
